@@ -1,6 +1,6 @@
 # Hor Ji Xuan - Regov Question 1 
 
-## WebApp with User Registration, Sign-On screen/module, and User Profile interface built with only React JS
+## WebApp with User Registration, Sign-On screen/module, and User Profile interface built with React JS
 
 Step 1: Register page
 - min username length is 4
