@@ -13,6 +13,7 @@ Step 2: Login page
 Step 3: Profile page
 - profile image is a default Kucoin logo
 - registered name and email will be shown
+- log out and log in back using same credentials
 - edit and save about me section
 - (hint: editing without save and log out, edited text does not persist)
 
