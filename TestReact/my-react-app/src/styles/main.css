@@ -1,0 +1,140 @@
+::placeholder{
+    color: rgba(255, 254, 254, 0.639);
+}
+
+img{
+   margin-left: 120px;
+   margin-right: 70px;
+   border: white solid;
+   border-radius: 9000px;
+}
+
+button{
+    background-color:rgb(59, 141, 240);
+    border-radius: 10px;
+    font-size: larger;
+    padding: 10px;
+    font-family: cursive
+
+}
+
+#root{
+    background-color: rgb(24, 24, 22);
+    height: 528px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -7px;
+}
+
+#profile{
+    padding-left: 10px;
+    text-align: left;
+    font-family: cursive;
+    font-size: large;
+    color: black;
+    margin-top: 6px;
+    padding-top: 4px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(9, 9, 9) 20% ,rgb(225, 233, 235));
+    width: 400px;
+    height:500px;
+    position: relative;
+   
+    top: 10px; left: 400px;
+}
+
+#logout{
+    height: 45px;
+    margin-left: 150px;
+}
+
+#content{
+  font-family: cursive;
+    overflow: hidden;
+    max-height: 3.6em;
+    line-height: 1.8em;
+    word-wrap: break-word;
+    font-size: smaller;
+
+}
+
+#alertBox{
+    border-radius: 10px;
+    border: solid rgb(226, 73, 73);
+    position: relative;
+    width: 500px;
+    height:50px;
+    top: 5px; left: 350px;
+    color:rgb(226, 73, 73)
+}
+
+#successBox{
+    border-radius: 10px;
+    border: solid rgb(9, 234, 118);
+    position: relative;
+    width: 500px;
+    height:50px;
+    top: 5px; left: 350px;
+    color:rgb(9, 234, 118)
+}
+
+#login{
+    margin-top: 5px;
+    padding-top: 4px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(225, 233, 235) ,rgb(9, 9, 9));
+    width: 400px;
+    height:340px;
+    position: relative;
+   
+    top: 40px; left: 400px;
+}
+#backButton{
+    margin-left: 20px;
+    text-align: left;
+    color: rgb(117, 142, 172);
+ 
+}
+
+#backButton:hover{
+    text-align: left;
+    color: rgb(59, 141, 240);
+
+    text-decoration: underline;
+
+}
+
+#container{
+    margin-top: 6px;
+    padding-top: 4px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(225, 233, 235),rgb(9, 9, 9) 90%);
+    width: 400px;
+    height:400px;
+    position: relative;
+   
+    top: 10px; left: 400px;
+}
+
+.fieldLabel{
+    float: left;
+
+}
+
+.field{
+    padding-left: 10px;
+    color: white;
+    height: 30px;
+    width:300px;
+background-color: rgb(93, 93, 96);
+border-color: rgb(244, 244, 244) white;
+} 
+
+.fieldDiv{
+    position: relative;
+    left: -70px;
+    display: inline-block;
+    margin-left: 110px;
+    margin-bottom: 20px;
+}
+
