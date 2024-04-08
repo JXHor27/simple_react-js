@@ -14,7 +14,7 @@ Step 3: Profile page
 - profile image is a default Kucoin logo
 - registered name and email will be shown
 - edit and save about me section
-- (hint: editing without save and log out, it will not persist)
+- (hint: editing without save and log out, edited text does not persist)
 
 This web app is built purely with React JS with huge focus on state management for simulating data persistence.
 
