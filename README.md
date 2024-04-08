@@ -1,6 +1,6 @@
-## Regov Question 1
+# Regov Question 1
 
-# WebApp with User Registration, Sign-On screen/module, and User Profile interface built with only React JS
+## WebApp with User Registration, Sign-On screen/module, and User Profile interface built with only React JS
 
 Step 1: Register an account
 
