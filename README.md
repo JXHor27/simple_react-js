@@ -19,3 +19,5 @@ Step 3: Profile page
 
 This web app is built purely with React JS with huge focus on state management for simulating data persistence.
 
+Here is the link, live deploy at https://simple-react-js.onrender.com/
+
