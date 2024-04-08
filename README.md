@@ -6,4 +6,4 @@ Step 2: Login to the account (has to the option to reregister account in case fo
 
 Step 3: Landed at profile page
 
-Step 4: Update about me section (hint:can try edit without saving and log out, the about me section will not be saved)
+Step 4: Update about me section (hint: can try edit without saving and log out, the about me section will not be saved)
